@@ -1,7 +1,7 @@
 # NRF24L01 Bidirectional LED Control :
 Control 2 LEDs Connected To 2 Arduino Boards With 2 NRF24L01 Transceiver Modules.
 
-Coded By : a-asaker
+Coded By : a-asaker.
 
 # Components : 
         - 2X Arduino Boards.
@@ -28,3 +28,5 @@ Coded By : a-asaker
                        Pin | Arduino(2)
                           
 * Note : The Same Connection For Both Arduino Boards.
+
+You Should Install Libs `RF24.h` And `nRF24L01.h` For Arduino IDE.
